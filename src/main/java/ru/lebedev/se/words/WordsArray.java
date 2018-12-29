@@ -1,4 +1,4 @@
-package ru.lebedev.se.lesson3.words;
+package ru.lebedev.se.words;
 
 /*
 Создать массив с набором слов (10-20 слов, должны встречаться повторяющиеся).
