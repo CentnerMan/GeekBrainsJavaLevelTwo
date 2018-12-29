@@ -1,4 +1,4 @@
-package ru.lebedev.se.lesson3.phonebook;
+package ru.lebedev.se.phonebook;
 
 import java.util.ArrayList;
 
